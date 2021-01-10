@@ -1,4 +1,6 @@
-### github should stop working with ICE
+## Welcome to my profile.
+This is where I upload my terrible code, and occasionally send a pull request.
+I just help with programs that relate to the Wii, Python, or anything that interests me at the time.
 
 <!--
 **SoulRepo/soulrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
